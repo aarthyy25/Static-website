@@ -1,0 +1,42 @@
+.header{
+    background-color:cyan;
+    display:flex;
+    flex-direction:row;
+}    
+body{
+    background-color:lightgray;
+}
+.logo{
+    width:2 px;
+    height:2 px;
+}
+li{
+    display:inline;
+    list-style-type:none;
+    margin:0px;
+    top:0px;
+    background-color:cyan;
+}
+.services{
+    font-size:30rem;
+    width:30 rem;
+    height:30 rem;
+    display:flex;
+    flex-direction:row;
+}
+.flex{
+    display:flex;
+    flex-direction:row;
+}
+
+image{
+    left:0 px;
+    top:0 px;
+}
+.a{
+   right:0px;
+}
+.button{
+    background-color: cyan;
+    border:2px solid black;
+}
